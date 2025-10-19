@@ -92,7 +92,7 @@ If you believe your data protection rights have been violated, you also have the
 
 We may update this Privacy Policy from time to time to reflect changes in the bot or legal requirements.  
 The most recent version will always be available at the following URL:  
-👉 [Link to the published version of this policy]  
+👉 https://github.com/ugursbg/Mr.-Thomas/blob/main/PRIVACY.md  
 
 ---
 
